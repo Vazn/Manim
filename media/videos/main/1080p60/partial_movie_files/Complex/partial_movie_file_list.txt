@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/1673142899_4251042929_2358810818.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_345352296_2362663864.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_74810002_1641067199.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_190800790_2936476695.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_148500088_3921975852.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_345352296_165508561.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_2828477235_736809085.mp4'
+file 'file:C:/Users/Christophe/Desktop/Python/media/videos/main/1080p60/partial_movie_files/Complex/3361581149_885716074_3927671780.mp4'
